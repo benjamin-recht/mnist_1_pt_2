@@ -2,7 +2,7 @@
 
 I'm not sure why anyone cares, but here's some code to get 1.18% accuracy on MNIST using only least squares and numpy calls.
 
-You can get the MNIST data set [here](https://s3.amazonaws.com/img-datasets/mnist.npz.)
+You can get the MNIST data set [here](https://s3.amazonaws.com/img-datasets/mnist.npz).
 
 The algorithm computes the minimum norm solution
 
